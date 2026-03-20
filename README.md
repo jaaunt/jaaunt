@@ -13,4 +13,4 @@ Java • Spring Boot • PostgreSQL • Vue.js • Python • JavaScript • HTM
 
 ## Projects
 - 🛒 [Grocerly](https://github.com/jaaunt/grocerly-backend) - full-stack grocery ordering app (Spring Boot + Vue.js)
-- 🎮 [WALLE Game](https://github.com/kristinvares/WALLE-game) - turn-based game built with LibGDX (team project)
+- 🎮 [WALLE Game](https://github.com/kristinvares/WALLE-game) - RPG game built with LibGDX (team project)
