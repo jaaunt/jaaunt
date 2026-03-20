@@ -1,4 +1,4 @@
-# Hi, I'm Janne-Lii
+# Hi, I'm Janne
 
 Informatics student at TalTech(Tallinn Technical University), Estonia.
 
