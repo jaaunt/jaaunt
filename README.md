@@ -5,6 +5,7 @@ Informatics student at TalTech(Tallinn Technical University), Estonia.
 ## Where I do my work
 Most of my coursework and projects live on my university GitLab account:
 [gitlab.cs.taltech.ee/jaaunt](https://gitlab.cs.taltech.ee/jaaunt)
+
 Unfortunately due to required privacy settings for most of the projects/repos. Not everything is publicly available.
 
 ## Tech I work with
