@@ -6,7 +6,7 @@ Informatics student at TalTech(Tallinn Technical University), Estonia.
 Most of my coursework and projects live on my university GitLab account:
 [gitlab.cs.taltech.ee/jaaunt](https://gitlab.cs.taltech.ee/jaaunt)
 
-Unfortunately due to required privacy settings for most of the projects/repos. Not everything is publicly available.
+Unfortunately due to required privacy settings for most of the projects/repos. Not everything is publicly available. I am in the process or migrating the repos over.
 
 ## Tech I work with
 Java • Spring Boot • PostgreSQL • Vue.js • Python • JavaScript • HTML and CSS • Docker 
